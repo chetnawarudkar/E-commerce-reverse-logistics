@@ -1,2 +1,5 @@
 # E-commerce-reverse-logistics
 MLR-based reverse logistics analytics project identifying e-commerce return cost drivers and simulating operational cost savings using Python and Power BI.
+An operations analytics project focused on identifying the key drivers of reverse logistics costs in e-commerce. Using Multiple Linear Regression in Python, the study analyses how operational factors such as approval delays, return transit time, refund delays, inspection delays, quantity returned, product value, return reasons, carriers, and disposition outcomes influence return shipping cost.
+The project extends beyond prediction by translating regression coefficients into a Power BI What-If simulator, enabling scenario analysis of process improvements. For example, the model estimates the potential cost savings associated with reducing return approval delays and quantifies their impact on overall reverse logistics expenditure.
+Tools & Techniques: Python, Multiple Linear Regression, Exploratory Data Analysis, Feature Engineering, Statistical Diagnostics, Power BI, DAX, What-If Analysis, Reverse Logistics Analytics.
